@@ -27,7 +27,8 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-🚀 How to Run the Project
+##🚀 How to Run the Project
+
 Download the Dataset:
 Download train_data.txt and test_data.txt from Kaggle and place them in the project folder.
 
