@@ -24,5 +24,12 @@ Dataset used: [Genre Classification Dataset IMDb (text file version)](https://ww
 Make sure Python 3.12 is installed.
 
 Install dependencies:
-```bash
 pip install -r requirements.txt
+
+🚀 How to Run the Project
+Download the Dataset
+Download train_data.txt and test_data.txt from Kaggle and place them in the project folder.
+
+Run the Script
+Execute the main Python script:
+ python movie_genre_classifier.py
